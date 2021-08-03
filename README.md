@@ -14,3 +14,5 @@ Listed here are the main integrations that are required to be done for an effeci
 ## Git Hub and Git Lab Configurations
 
 GIT and also keep the GIT tricks and other related configs very handy and will be used for learning GIT better. 
+
+The details of the GitHub related items can be found in xxx
