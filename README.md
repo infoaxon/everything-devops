@@ -4,4 +4,13 @@ This is where we learn following topics:
 
 # Main Components
 
-#  GIT and also keep the GIT tricks and other related configs very handy and will be used for learning GIT better
+Listed here are the main integrations that are required to be done for an effecient DevOps Pipeline. These are:
+
+- GitHub or Gitlab - SCM
+- Jenkins - Build Automation Server
+- Nexus or JFrog Artefactory
+- Gradle - Build Tool
+
+## Git Hub and Git Lab Configurations
+
+GIT and also keep the GIT tricks and other related configs very handy and will be used for learning GIT better. 
